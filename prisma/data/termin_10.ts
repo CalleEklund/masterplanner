@@ -1,10 +1,10 @@
 export const T10 = [
   {
-    code: "TQXX33",
-    name: "Examensarbete",
-    credit: "30*",
-    level: "A1X",
-    block: "-",
+    CourseCode: "TQXX33",
+    CourseName: "Examensarbete",
+    Credit: "30*",
+    Level: "A1X",
+    Block: "-",
     VOF: "O",
     semester: 10,
   },
